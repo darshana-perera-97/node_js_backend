@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/darshana-perera-97/node_js_backend/issues"
   },
-  "homepage": "https://github.com/darshana-perera-97/node_js_backend#readme"
+  "homepage": "https://github.com/darshana-perera-97/node_js_backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
